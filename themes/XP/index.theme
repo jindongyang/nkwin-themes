@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=XP
+Name[zh_CN]=默认
+Type=X-GNOME-Metatheme
+Comment=
+
+[X-GNOME-Metatheme]
+GtkTheme=Luna
+MetacityTheme=Luna
+IconTheme=GnomeXP
+CursorTheme=xp
+CursorSize=32
+NotificationTheme=slider

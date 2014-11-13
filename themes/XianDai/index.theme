@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=XianDai
+Name[zh_CN]=清新
+Type=X-GNOME-Metatheme
+Comment=
+
+[X-GNOME-Metatheme]
+GtkTheme=Zukitwo
+MetacityTheme=Zukitwo-Dark
+IconTheme=Faience
+CursorTheme=dmz-aa
+CursorSize=24

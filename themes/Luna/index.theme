@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Luna
+Type=X-GNOME-Metatheme
+Comment=This is my second theme made from "royale.msstyles".
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Luna
+MetacityTheme=Luna
+IconTheme=Luna
